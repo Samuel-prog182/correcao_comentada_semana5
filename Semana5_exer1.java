@@ -10,6 +10,3 @@ public class Semana5_exer1{
         System.out.println(fatorial);
     }
 }
-
-//for(int i = 1; i <= h; i++)
-//for(int = 5 ; i >= 1; i--)
